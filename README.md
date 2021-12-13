@@ -1,6 +1,6 @@
  
 
-### <div align="center">Olá! Sou Wilian Ansanello / Hello! I'm Wilian Ansanello 🚀</div>  
+## <div align="center">Olá! Sou Wilian Ansanello / Hello! I'm Wilian Ansanello 🚀</div>  
   
 - 🎒 Trabalho há 11 anos com TI, tenho experiências como programador e analista de suporte.
 - 🌱 Estou estudando JavaScript e React.  
@@ -11,7 +11,7 @@
 <br/>  
 
 
-## Minhas habilidades / My Skill Set  
+### Minhas habilidades / My Skill Set  
 <table><tr><td valign="top" width="33%">
 
 
@@ -61,7 +61,7 @@
 <br/>  
 
 
-## Minhas redes sociais / My social networks  
+### Minhas redes sociais / My social networks  
 <div align="center">
 <a href="https://linkedin.com/in/linkedin.com/in/wiliansanello" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
@@ -81,7 +81,7 @@
 <br/>  
 
 
-## Github Stats  
+### Github Stats  
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=wiliansanello&show_icons=true&count_private=true&hide_border=true&theme=dracula" align="center" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wiliansanello&layout=compact)](https://github.com/wiliansanello/github-readme-stats&hide_border=true&theme=dracula" align="center" />  
@@ -89,7 +89,7 @@
 <br/>  
 
 
-## Recent Blog Posts  
+### Recent Blog Posts  
   
 
 <br/>  
