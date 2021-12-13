@@ -1,23 +1,24 @@
  
 
-## <div align="center">Olá! Sou Wilian Ansanello / Hello! I'm Wilian Ansanello 🚀</div>  
-  
+# <div align="center">Olá! Sou Wilian Ansanello / Hello! I'm Wilian Ansanello 🚀</div>  
+ 
+ 
+ 
 - 🎒 Trabalho há 11 anos com TI, tenho experiências como programador e analista de suporte.
-- 🌱 Estou estudando JavaScript e React.  
+- 📓 Formado em Sistemas de Informação pela Associação de Ensino de Ribeirão Preto - UNAERP
+- 🌱 Estou estudando JavaScript e React na [DevPleno](https://devpleno.com).  
 - 🔭 Estou atuando nos projetos [PalpiteBox 2.0](https://github.com/wiliansanello/palpitebox-2.0) e [Junta Vagas](https://github.com/devpleno/junta-vagas)
-- ❓ Ask me about anything related Javascript  
-  
 
 <br/>  
 
 
-### Minhas habilidades / My Skill Set  
+
+## <div align="center">Minhas habilidades / My Skill Set</div>  
 <table><tr><td valign="top" width="33%">
 
 
 
-### Frontend  
-<div align="center">  
+## <div align="center"> Frontend    
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
@@ -32,7 +33,7 @@
 
 
 
-### Backend  
+## <div align="center">Backend</div>  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
@@ -49,7 +50,7 @@
 
 
 
-### DevOps  
+## DevOps  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
@@ -61,7 +62,7 @@
 <br/>  
 
 
-### Minhas redes sociais / My social networks  
+## Minhas redes sociais / My social networks  
 <div align="center">
 <a href="https://linkedin.com/in/linkedin.com/in/wiliansanello" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
@@ -81,15 +82,18 @@
 <br/>  
 
 
-### Github Stats  
+## Github Stats  
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=wiliansanello&show_icons=true&count_private=true&hide_border=true&theme=dracula" align="center" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wiliansanello&layout=compact)](https://github.com/wiliansanello/github-readme-stats&hide_border=true&theme=dracula" align="center" />  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wiliansanello&layout=compact&hide_border=true&theme=dracula" align="center" />
+ 
+ 
+
 </div> 
 <br/>  
 
 
-### Recent Blog Posts  
+## Recent Blog Posts  
   
 
 <br/>  
