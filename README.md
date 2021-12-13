@@ -1,24 +1,17 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
+ 
 
-### <div align="center">I'm Wilian Ansanello, I work with Information Technology with 11 years, I'm full stack developer and support analyst🚀</div>  
+### <div align="center">Olá! Sou Wilian Ansanello / Hello! I'm Wilian Ansanello 🚀</div>  
   
-
-- 🔭 I’m currently working on [PalpiteBox 2.0](https://github.com/wiliansanello/palpitebox-2.0) and [Junta Vagas](https://github.com/devpleno/junta-vagas)  
-  
-
-- 🌱 I’m currently learning JavaScript, React and Python  
-  
-
+- 🎒 Trabalho há 11 anos com TI, tenho experiências como programador e analista de suporte.
+- 🌱 Estou estudando JavaScript e React.  
+- 🔭 Estou atuando nos projetos [PalpiteBox 2.0](https://github.com/wiliansanello/palpitebox-2.0) e [Junta Vagas](https://github.com/devpleno/junta-vagas)
 - ❓ Ask me about anything related Javascript  
   
 
 <br/>  
 
 
-## My Skill Set  
+## Minhas habilidades / My Skill Set  
 <table><tr><td valign="top" width="33%">
 
 
@@ -31,8 +24,8 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />   
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />   
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
+ 
 </div>
 
 </td><td valign="top" width="33%">
@@ -43,11 +36,9 @@
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />    
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
@@ -70,7 +61,7 @@
 <br/>  
 
 
-## Connect with me  
+## Minhas redes sociais / My social networks  
 <div align="center">
 <a href="https://linkedin.com/in/linkedin.com/in/wiliansanello" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
@@ -91,8 +82,10 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=wiliansanello&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wiliansanello&show_icons=true&count_private=true&hide_border=true&theme=dracula" align="center" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wiliansanello&layout=compact)](https://github.com/wiliansanello/github-readme-stats&hide_border=true&theme=dracula" align="center" />  
+</div> 
 <br/>  
 
 
