@@ -85,7 +85,7 @@
 ## Github Stats  
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=wiliansanello&show_icons=true&count_private=true&hide_border=true&theme=dracula" align="center" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wiliansanello&layout=compact&hide_border=true&theme=dracula" align="center" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wiliansanello&layout=compact&hide_border=true&theme=dracula" align="top" />
  
  
 
