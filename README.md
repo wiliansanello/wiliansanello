@@ -6,7 +6,7 @@
  
 - 🎒 Trabalho há 11 anos com TI, tenho experiências como programador e analista de suporte.
 - 📓 Formado em Sistemas de Informação pela Associação de Ensino de Ribeirão Preto - UNAERP
-- 🌱 Estou estudando JavaScript e React na [DevPleno](https://devpleno.com) e na [Rocketseat](https://www.rocketseat.com.br).  
+- 🌱 Estou estudando JavaScript, Node, React e React Native na [DevPleno](https://devpleno.com) e na [Rocketseat](https://www.rocketseat.com.br).  
 - 🔭 Estou atuando nos projetos [PalpiteBox 2.0](https://github.com/wiliansanello/palpitebox-2.0) e [Junta Vagas](https://github.com/devpleno/junta-vagas)
 
 <br/>  
