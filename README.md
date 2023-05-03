@@ -4,7 +4,7 @@
  
  
  
-- 🎒 Trabalho há 11 anos com TI, tenho experiências como programador e analista de suporte.
+- 🎒 Trabalho há 14 anos com TI, tenho experiências como programador e analista de suporte.
 - 📓 Formado em Sistemas de Informação pela Associação de Ensino de Ribeirão Preto - UNAERP
 - 🌱 Estou estudando Node, React e React Native na [DevPleno](https://devpleno.com) e na [Rocketseat](https://www.rocketseat.com.br).  
 - 🔭 Estou atuando nos projetos [NLW - eSports](https://github.com/wiliansanello/nlw-esports) e [Videoteca do Streaming](https://github.com/wiliansanello/videoteca-do-streaming)
