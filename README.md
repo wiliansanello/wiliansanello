@@ -6,7 +6,7 @@
  
 - 🎒 Trabalho há com TI desde 2009, tenho experiências como programador e analista de suporte.
 - 📓 Formado em Sistemas de Informação pela Associação de Ensino de Ribeirão Preto - UNAERP
-- 🌱 Estou estudando Node, React e React Native na [Rocketseat](https://www.rocketseat.com.br) e Java na [DIO](https://www.dio.me).  
+- 🌱 Estou estudando Javascript na [Rocketseat](https://www.rocketseat.com.br) e Java na [DIO](https://www.dio.me).  
 - 🔭 Estou atuando nos projetos [Videoteca do Streaming](https://github.com/wiliansanello/videoteca-do-streaming)
 
 <br/>  
@@ -35,7 +35,8 @@
 
 ## <div align="center">Backend</div>  
 <div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
+<img style="margin: 10px
+" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /> 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg"
  alt="Express.js" height="50" />
