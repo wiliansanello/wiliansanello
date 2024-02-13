@@ -6,9 +6,8 @@
  
 - 🎒 Estou na área de TI desde 2009, com experiências como programador e analista de suporte.
 - 📓 Formado em Sistemas de Informação pela Associação de Ensino de Ribeirão Preto - UNAERP.
-- 🌱 Estou estudando Java na [DIO](https://www.dio.me).  
-- 🔭 Estou atuando nos projetos [Videoteca do Streaming](https://github.com/wiliansanello/videoteca-do-streaming)
-
+- 🌱 Estou estudando Java na [DIO](https://www.dio.me) e na [Rocketseat](https://www.rocketseat.com.br).  
+- 🔭 Em breve, novos projetos.
 <br/>  
 
 
