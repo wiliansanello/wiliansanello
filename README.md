@@ -4,9 +4,9 @@
  
  
  
-- 🎒 Estou na área de TI desde 2009, com experiências como programador e analista de suporte.
+- 🎒 4 anos de experiência no mundo de desenvolvimento de software.
 - 📓 Formado em Sistemas de Informação pela Associação de Ensino de Ribeirão Preto - UNAERP.
-- 🌱 Estou estudando Java na [DIO](https://www.dio.me) e na [Rocketseat](https://www.rocketseat.com.br).  
+- 🌱 Estou estudando Java na [Rocketseat](https://www.rocketseat.com.br).  
 - 🔭 Em breve, novos projetos.
 <br/>  
 
